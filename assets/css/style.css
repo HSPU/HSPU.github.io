@@ -183,6 +183,7 @@ footer {
 #nav-menu .dropdown-menu {
     left: inherit;
     right: 0px;
+	object-fit: cover;
 }
 
 ul.dropdown-menu>li>a>i.fa {
