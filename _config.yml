@@ -32,7 +32,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-sidebar_background_image: https://p4.wallpaperbetter.com/wallpaper/304/550/447/coding-computer-hacker-hacking-wallpaper-preview.jpg
+sidebar_background_image: https://raw.githubusercontent.com/HSPU/HSPU.github.io/main/pictures/wallpaperbetter.jpg
 
 BASE_PATH:
 
