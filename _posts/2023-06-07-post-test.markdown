@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "첫 포스트"
+date:   2023-06-07 10:17:40 +0900
+categories: jekyll update
+---
+첫 게시물 테스트입니다.
+
+백엔드 개발자가 할 일
+
+- 클라이언트 – 서버 구조에서 서버를 만드는 것
+- 어떤 요청을 받았을 때, 특정 응답을 반환하도록 하며 그 데이터를 관리 하는 것
+- 즉 어떤 URL을 기준으로 요청이 들어왔을 때 어떤 응답을 전달할지, 그 중 특히 Path와 Query를 기준으로 어떤 응답을 할지!
+
+프레임워크의 역할 
+
+개발자의 일을 간소화하자!
+
+- 어떤 URL에서 어떤 요청을 들을 것인지
+- 그 요청에 대한 응답 형태가 어떨 것인지 
+- 비즈니스 로직만 다시 생각하면 되게끔 반복된 기능을 만들어두자
+- 개발에 필요한 기능들을 미리 구현해 놓은 것 = Framework
+- Spring Boot는? 웹 서비스 개발을 위한 Framework
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
