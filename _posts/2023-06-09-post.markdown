@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Html Css 첫 작품"
+date:   2023-06-09 10:54:40 +0900
+categories: jekyll update
+---
+https://hspu.github.io/mini-homepage/홈.html
+
+깃허브에 남겨놨던 html css를 이용해서 만든 싸이월드 외형입니다.
+
+코딩을 처음으로 공부했던 시절이 엊그제 같은데 벌써 2년이 지났네요.
+
+많이 허접하지만 귀엽게 봐주세요 ㅎㅎ
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
