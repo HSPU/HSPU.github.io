@@ -55,7 +55,7 @@ article .share .btn {
 }
 #contact-list li:hover .fa-instagram,
 article .share .instagram:hover {
-	color: #00ACEE;
+	color: #CC2127;
 	border-color: #00ACEE;
 }
 #contact-list li:hover .fa-linkedin {
@@ -65,7 +65,7 @@ article .share .instagram:hover {
 	color: #E93E30;
 }
 #contact-list li:hover .fa-facebook {
-	color: #CC2127;
+	color: #00ACEE;
 }
 #contact-list li:hover .fa-rss {
 	color: #e74c3c;
