@@ -53,8 +53,8 @@ article .share .btn {
   -webkit-transition:color .2s ease-out, background 1s ease-in;
   transition:color .2s ease-out, background 1s ease-in;
 }
-#contact-list li:hover .fa-twitter,
-article .share .twitter:hover {
+#contact-list li:hover .fa-instagram,
+article .share .instagram:hover {
 	color: #00ACEE;
 	border-color: #00ACEE;
 }
@@ -64,7 +64,7 @@ article .share .twitter:hover {
 #contact-list li:hover .fa-envelope {
 	color: #E93E30;
 }
-#contact-list li:hover .fa-pinterest {
+#contact-list li:hover .fa-facebook {
 	color: #CC2127;
 }
 #contact-list li:hover .fa-rss {
