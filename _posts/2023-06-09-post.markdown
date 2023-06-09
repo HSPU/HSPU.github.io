@@ -12,6 +12,8 @@ categories: jekyll update
 
 많이 허접하지만 귀엽게 봐주세요 ㅎㅎ
 
+(화면에 크기가 맞지 않는다면 Ctrl + 마우스 휠 로 크기 조정)
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
