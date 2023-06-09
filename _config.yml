@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: [우스기의 블로그]
+title: 우스기의 블로그
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: [우스기의 블로그]
+      title: 우스기의 블로그
 
 description: Stylish Jekyll Theme
 author:
